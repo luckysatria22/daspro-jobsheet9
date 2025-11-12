@@ -12,4 +12,6 @@ seperti ilustrasi output berikut:
 Jawaban :
 
 1. Program melakukan perulangan sebanyak panjang array (10x).
-2. 
+2. Perulangan dijalankan sesuai panjang array nilaiAkhir.
+3. Langkah ke 6 melakukan perulangan mulai dari mahasiswa dengan nomor terendah tetapi yang lulus.
+4. Done.
