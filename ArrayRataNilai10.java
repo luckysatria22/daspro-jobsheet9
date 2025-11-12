@@ -11,6 +11,13 @@ public class ArrayRataNilai10 {
             nilaiMhs[i] = sc.nextInt();
         }
         for (int i = 0; i < nilaiMhs.length; i++) {
+            if (nilaiMhs[i] > 70) {
+                System.out.println("Nilai mahasiswa ke-"+(i+1)+" : "+nilaiMhs[i]+" = lulus!");
+            } else {
+            System.out.println("Nilai mahasiswa ke-"+(i+1)+" : "+nilaiMhs[i]+" = tidak lulus!");
+            }
+        }
+        for (int i = 0; i < nilaiMhs.length; i++) {
             total += nilaiMhs[i];
         }
         rata2 = total/nilaiMhs.length;
