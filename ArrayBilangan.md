@@ -11,5 +11,5 @@ Jawaban :
 
 1. Program eror tidak bisa dijalankan, karena bil menggunakan tipe data int hanya bisa menyimpan bilangan bulat.
 2. int[] bil = {5, 13, -7, 17};
-3. done.
-4. Perulangan akan terjadi 5 kali, karena di mulai dari nol sampai 4.
+3. Menggunakan perulangan yang otomatis, tidak perlu menulis sistem.out.ptintln 4 kali.
+4. Tidak terjadi looping 5x, karena array cuma 4.
